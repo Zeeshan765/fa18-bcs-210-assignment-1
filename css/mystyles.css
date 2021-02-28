@@ -1,0 +1,29 @@
+.container{
+    width: 1000px;
+    height: 1000px;
+    margin: 0px auto;
+    overflow: hidden;
+    
+}
+
+#Left{
+    text-align: left;
+    
+    
+}
+#Right{
+   
+    float: right;
+   
+}
+
+.blueback{
+    border: 1px solid black;
+    background-color:dodgerblue;
+    font-size: medium;
+    font-weight: bold;
+    text-decoration: white;
+}
+.bolding{
+    font-weight: bold;
+}

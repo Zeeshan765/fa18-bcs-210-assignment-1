@@ -17,12 +17,12 @@
    
 }
 
-.blueback{
+.greyback{
     border: 1px solid black;
     font-size: medium;
-    background-color:dodgerblue;
+    background-color:grey;
     font-weight: bold;
-    text-decoration: white;
+    
 }
 .bolding{
     font-weight: bold;
